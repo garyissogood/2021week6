@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2102cc"],{b789:function(n,c,e){"use strict";e.r(c);var t=e("7a23");function r(n,c,e,r,u,a){return Object(t["o"])(),Object(t["c"])("div",null," 這頁是購物車 ")}var u={name:"購物車",data:function(){return{}}};u.render=r;c["default"]=u}}]);
-//# sourceMappingURL=chunk-2d2102cc.11073c13.js.map
